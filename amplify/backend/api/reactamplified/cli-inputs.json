@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reactamplified",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2025-02-10T00:08:09.754Z",
+      "keyDescription": "srikanth"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}

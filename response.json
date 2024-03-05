@@ -1,0 +1,12 @@
+{
+  "data": {
+    "createTodo": {
+      "id": "8aaf144f-78fc-497e-9d07-4f413d38a1b0",
+      "name": "complete task2 ",
+      "description": "go to office",
+      "createdAt": "2024-02-12T15:00:56.415Z",
+      "updatedAt": "2024-02-12T15:00:56.415Z",
+      "__typename": "Todo"
+    }
+  }
+}
