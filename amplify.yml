@@ -7,7 +7,7 @@ frontend:
         - npm run build
         - npx cypress run
   artifacts:
-    baseDirectory: amplify
+    baseDirectory: src
     files:
       - '**/*'
   cache:
